@@ -161,57 +161,6 @@ I'm a passionate **.NET Backend Developer** with a strong foundation in **C#**, 
 
 ---
 
-# ⭐ Featured Projects
-
-## 🏢 Nexus ERP System
-
-A scalable ERP backend system built using **ASP.NET Core Web API** following Clean Architecture principles.
-
-**Highlights**
-
-- CRUD Operations
-- Repository Pattern
-- Dependency Injection
-- Validation
-- Exception Handling Middleware
-- Soft Delete
-- LINQ Optimization
-- SQL Server
-- Entity Framework Core
-
----
-
-## 👨‍💼 Employee Management System
-
-RESTful API for employee and department management.
-
-**Features**
-
-- Authentication
-- CRUD Operations
-- Filtering
-- Searching
-- Pagination
-- SQL Server
-- Entity Framework Core
-
----
-
-## 🍽 Restaurant E-Commerce
-
-Backend API for an e-commerce platform.
-
-**Features**
-
-- Authentication
-- Product Management
-- Categories
-- Shopping Cart
-- Orders
-- Entity Framework Core
-- SQL Server
-
----
 
 # 🌐 Connect With Me
 
