@@ -1,4 +1,3 @@
-<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Ahmed Raafat</h1>
 
 <h3 align="center">
@@ -6,33 +5,32 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;ASP.NET+Core+Developer;Building+Scalable+RESTful+APIs;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmadraafat22&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=.NET+Backend+Developer;ASP.NET+Core+Developer;Building+Scalable+RESTful+APIs;Passionate+About+Clean+Code;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a passionate **.NET Backend Developer** focused on building scalable, maintainable, and high-performance web applications using the Microsoft technology stack.
+I'm a passionate **.NET Backend Developer** with a strong foundation in **C#**, **ASP.NET Core**, and **SQL Server**. I enjoy building scalable backend applications, designing efficient databases, and continuously improving my software engineering skills.
 
-- 💻 Developing RESTful APIs with ASP.NET Core
-- 🏗 Interested in Clean Architecture & Software Design
-- 📚 Currently learning Docker, Redis, Hangfire & Advanced Backend Concepts
-- 🎯 Goal: Become a Professional Backend Engineer
+- 💻 Building RESTful APIs using ASP.NET Core
+- 🏗 Passionate about Clean Architecture & SOLID Principles
+- 🗄 Designing efficient SQL Server databases
+- 🚀 Writing clean, maintainable, and scalable code
+- 🧩 Competitive Programmer with 100+ solved problems
+- 📚 Currently learning Angular, Docker, Redis & Hangfire
+- 🎯 Goal: Become a Professional Full Stack .NET Developer
 
 ---
 
 # 📄 Resume
 
-<p>
+<p align="center">
 
 <a href="https://drive.google.com/file/d/1IJ3RIRoVSHuDjPQIItIq1KqdWLT8TtLW/view?usp=sharing" target="_blank">
 
-<img src="https://img.shields.io/badge/View%20My%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/📄%20View%20My%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
 </a>
 
@@ -42,11 +40,17 @@ I'm a passionate **.NET Backend Developer** focused on building scalable, mainta
 
 # 🚀 Tech Stack
 
-## Languages
+## 💻 Programming Languages
 
-<p>
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 
@@ -58,43 +62,56 @@ I'm a passionate **.NET Backend Developer** focused on building scalable, mainta
 
 ---
 
-## Backend
+## ⚙ Backend Development
 
-<p>
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="45"/>
 
 </p>
 
 - ASP.NET Core
-- ASP.NET MVC
-- ASP.NET Web API
+- ASP.NET Core MVC
+- ASP.NET Core Web API
 - Entity Framework Core
 - LINQ
-- RESTful APIs
+- RESTful API Design
+- Dependency Injection
+- Middleware
 - JWT Authentication
+- FluentValidation
+- AutoMapper
+- Swagger / OpenAPI
+- Routing & Controllers
+- Model Binding & Validation
+- Clean Architecture (Basics)
+- SOLID Principles
 
 ---
 
-## Database
+## 🗄 Database
 
-<p>
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
 
 </p>
 
 - SQL Server
+- Database Design
+- Database Normalization
+- Relationships
+- Constraints
+- Joins
+- Query Optimization
 
 ---
 
-## Tools
+## 🛠 Tools
 
-<p>
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 
@@ -104,21 +121,35 @@ I'm a passionate **.NET Backend Developer** focused on building scalable, mainta
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="45"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="45"/>
+
 </p>
 
 ---
 
-## Currently Learning
+# 🧠 Computer Science Fundamentals
 
-<p>
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Problem Solving
+- Competitive Programming (100+ Solved Problems)
+
+---
+
+# 🌱 Currently Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
@@ -126,62 +157,89 @@ I'm a passionate **.NET Backend Developer** focused on building scalable, mainta
 
 <img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Design%20Patterns-00599C?style=for-the-badge"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# ⭐ Featured Projects
 
-<p align="center">
+## 🏢 Nexus ERP System
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadraafat22&show_icons=true&theme=github_dark&hide_border=true"/>
+A scalable ERP backend system built using **ASP.NET Core Web API** following Clean Architecture principles.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadraafat22&layout=compact&theme=github_dark&hide_border=true"/>
+**Highlights**
 
-</p>
+- CRUD Operations
+- Repository Pattern
+- Dependency Injection
+- Validation
+- Exception Handling Middleware
+- Soft Delete
+- LINQ Optimization
+- SQL Server
+- Entity Framework Core
 
 ---
 
-# 🔥 GitHub Streak
+## 👨‍💼 Employee Management System
 
-<p align="center">
+RESTful API for employee and department management.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadraafat22&theme=github-dark&hide_border=true"/>
+**Features**
 
-</p>
+- Authentication
+- CRUD Operations
+- Filtering
+- Searching
+- Pagination
+- SQL Server
+- Entity Framework Core
+
+---
+
+## 🍽 Restaurant E-Commerce
+
+Backend API for an e-commerce platform.
+
+**Features**
+
+- Authentication
+- Product Management
+- Categories
+- Shopping Cart
+- Orders
+- Entity Framework Core
+- SQL Server
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://www.linkedin.com/in/ahmed-raafat-8a1a2a286">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://wa.me/qr/QFQ3W2HONCKKL1">
-
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
 </a>
 
 <a href="https://t.me/ahmedraafat12">
-
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
+<a href="mailto:medorfmedo8008@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+<h2 align="center">💡 Keep Learning • Keep Building • Keep Growing</h2>
+
 <p align="center">
-
-<i>"Code. Learn. Build. Repeat."</i>
-
+<i>"First, solve the problem. Then, write the code."</i><br>
+— John Johnson
 </p>
