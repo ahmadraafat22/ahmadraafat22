@@ -189,6 +189,5 @@ I'm a passionate **.NET Backend Developer** with a strong foundation in **C#**, 
 <h2 align="center">💡 Keep Learning • Keep Building • Keep Growing</h2>
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i><br>
-— John Johnson
+<i>"First, solve the problem. Then, write the code."</i>
 </p>
