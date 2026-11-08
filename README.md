@@ -28,7 +28,7 @@ I'm a passionate **.NET Backend Developer** with a strong foundation in **C#**, 
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/1C4izqHQSt8H_DmVXVMAryBHlFuK9AKJU/view?usp=sharing" target="_blank">
+<a href="[https://drive.google.com/file/d/1C4izqHQSt8H_DmVXVMAryBHlFuK9AKJU/view?usp=sharing](https://drive.google.com/file/d/10Ab6O2R1fB98Fe_lDLsNTbnOaJYsKBj4/view?usp=drive_link)" target="_blank">
 
 <img src="https://img.shields.io/badge/📄%20View%20My%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
