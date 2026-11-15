@@ -151,9 +151,6 @@ I'm a passionate **.NET Backend Developer** with a strong foundation in **C#**, 
 
 <img src="https://img.shields.io/badge/Hangfire-FF6600?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge"/>
-
-</p>
 
 ---
 
